@@ -10,13 +10,13 @@ body {
 
 .container {
     background-color: #fff;
-    padding:20px;
+    padding: 20px;
     margin: 10px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     text-align: center;
     width: 40%;
-    max-width: 200px;
+    max-width: 200px;
 }
 
 .title {
@@ -29,7 +29,7 @@ body {
 
 h1 {
     color: white;
-    margin-bottom: 100%px;
+    margin-bottom: 100%;
 }
 
 table {
@@ -125,6 +125,7 @@ body {
         transform: translateX(1);
     }
 }
+
 .logo1 {
     width: 100px; 
     height: auto; 
@@ -132,6 +133,7 @@ body {
     top: 10px; 
     left: 10px; 
 }
+
 .logo2 {
     width: 100px; 
     height: auto; 
